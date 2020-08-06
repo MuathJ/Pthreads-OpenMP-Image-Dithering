@@ -1,1 +1,1 @@
-# Pthreads& OpenMP - Image Dithering
+# Pthreads & OpenMP - Image Dithering
