@@ -1,0 +1,1 @@
+# Pthreads-OpenMP-Image-Dithering-
